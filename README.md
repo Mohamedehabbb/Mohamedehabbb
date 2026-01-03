@@ -7,7 +7,7 @@ Data Scientist | Machine Learning Engineer | Applied AI Specialist
 </h3>
 
 <p align="center">
-Based in Mansoura, Dakahlia, Egypt 🇪🇬 <br/>
+📍 Mansoura, Dakahlia, Egypt 🇪🇬 <br/>
 I design, build, and optimize data-driven machine learning solutions with a strong focus on
 <strong>robustness, scalability, and interpretability</strong>.
 </p>
@@ -20,16 +20,16 @@ I design, build, and optimize data-driven machine learning solutions with a stro
 
 ## 👨‍💻 Professional Summary
 
-- 📊 **Data Scientist & Machine Learning Engineer** with strong academic and practical background  
+- 📊 **Data Scientist & Machine Learning Engineer** with strong academic and hands-on project experience  
 - 🎓 Bachelor’s degree in **Computer Science Engineering – Tanta University (2024)**  
-- 🧠 Solid foundation in **Statistics, Machine Learning, Deep Learning, and Data Analysis**  
-- 🚀 Experienced in building **end-to-end ML pipelines** (EDA → Feature Engineering → Modeling → Evaluation)  
-- 🔍 Hands-on experience with **Predictive Modeling, NLP, Time Series, and Unsupervised Learning**  
-- 📈 Focused on transforming complex datasets into **actionable, business-impactful insights**
+- 🧠 Solid background in **Statistics, Machine Learning, Deep Learning, and Data Analysis**  
+- 🚀 Experienced in delivering **end-to-end data science solutions** (EDA → Feature Engineering → Modeling → Evaluation)  
+- 🔍 Skilled in **Predictive Modeling, NLP, Time Series Analysis, and Unsupervised Learning**  
+- 📈 Focused on transforming complex datasets into **actionable, business-driven insights**
 
 ---
 
-## 📊 Analytics Dashboard (GitHub Insights)
+## 📊 GitHub Analytics Dashboard
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mohamed-ehab&show_icons=true&theme=react&hide_border=true" height="165"/>
@@ -40,10 +40,7 @@ I design, build, and optimize data-driven machine learning solutions with a stro
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-ehab&layout=compact&theme=react&hide_border=true"/>
 </p>
 
-📌 **What this shows recruiters**
-- Consistency in coding & learning  
-- Strong focus on Python & data-related work  
-- Active and continuously improving GitHub profile  
+📌 *This dashboard highlights coding consistency, strong Python usage, and continuous learning.*
 
 ---
 
@@ -56,7 +53,7 @@ I design, build, and optimize data-driven machine learning solutions with a stro
 **Relevant Coursework**
 - Machine Learning (Fundamentals)  
 - Data Analysis & Statistics  
-- SQL & Databases  
+- SQL & Database Systems  
 - Object-Oriented Programming (OOP)  
 - Data Structures & Algorithms  
 
@@ -108,37 +105,31 @@ I design, build, and optimize data-driven machine learning solutions with a stro
 
 ## 🚀 Featured Projects
 
-### 🔹 Iris Species Classification (Kaggle)
-- End-to-end supervised ML pipeline  
-- Data preprocessing, feature scaling, model tuning  
-- Models: Logistic Regression, KNN, SVM, Voting Classifier  
-- Accuracy: **~98%**
+- **Iris Species Classification (Kaggle)**  
+  Supervised ML pipeline with preprocessing, hyperparameter tuning, ensemble learning, and explainability  
+  *Accuracy: ~98%*
 
-### 🔹 Black Friday Sales Prediction (Kaggle)
-- Predictive modeling using supervised learning  
-- Feature engineering and performance optimization  
+- **Black Friday Sales Prediction (Kaggle)**  
+  Predictive modeling with feature engineering and performance optimization  
 
-### 🔹 Census Income Classification (Kaggle)
-- Classification models to predict income levels  
-- Focus on model evaluation and interpretability  
+- **Census Income Classification (Kaggle)**  
+  Classification models with model evaluation and interpretation  
 
-### 🔹 Time Series Forecasting – Temperature Prediction (DataCamp)
-- Regression & time series analysis  
-- Forecasting trends based on historical data  
+- **Time Series Forecasting – Temperature Prediction (DataCamp)**  
+  Regression & time series analysis for forecasting trends  
 
-### 🔹 Unsupervised Learning Projects
-- Height & Weight Clustering (K-Means)  
-- Penguin Species Clustering  
+- **Unsupervised Learning Projects**  
+  K-Means clustering (Height & Weight, Penguin Species)
 
 ---
 
 ## 🧠 Core Strengths
 
-- End-to-end Machine Learning workflows  
+- End-to-end Data Science & Machine Learning workflows  
 - Feature engineering & dimensionality reduction (PCA)  
 - Hyperparameter tuning & ensemble methods  
-- NLP & text data analysis  
-- Strong statistical & analytical thinking  
+- NLP & text analytics  
+- Strong statistical reasoning & problem-solving skills  
 
 ---
 
@@ -156,19 +147,14 @@ I design, build, and optimize data-driven machine learning solutions with a stro
 
 ---
 
-## 📫 Connect With Me
-<p>
-<a href="https://www.linkedin.com/in/mohamed-ehab-7b91092b3">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://www.kaggle.com/mohamedehaab">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/>
-</a>
-<a href="https://www.datacamp.com/portfolio/moehab1532002">
-<img src="https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp"/>
-</a>
-</p>
+## 📫 Contact & Profiles
+
+- 📧 **Email:** moehab1532002@gmail.com  
+- 📱 **Phone:** +20 109 014 6607  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/mohamed-ehab-7b91092b3  
+- 📊 **Kaggle:** https://www.kaggle.com/mohamedehaab  
+- 🧠 **DataCamp Portfolio:** https://www.datacamp.com/portfolio/moehab1532002  
 
 ---
 
-⭐ *This GitHub profile reflects my academic background, technical expertise, and practical experience in Data Science and Machine Learning.*
+⭐ *This GitHub profile reflects my professional journey, technical expertise, and commitment to building impactful data-driven solutions.*
