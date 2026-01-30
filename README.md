@@ -21,8 +21,8 @@ I design, build, and optimize data-driven machine learning solutions with a stro
 ## 👨‍💻 Professional Summary
 
 - 📊 **Data Scientist & Machine Learning Engineer** with strong academic and hands-on project experience  
-- 🎓 Bachelor’s degree in **Computer Science Engineering – Tanta University (2024)**  
-- 🧠 Solid background in **Statistics, Machine Learning, Deep Learning, and Data Analysis**  
+- 🎓 Bachelor’s degree in **Computer  Engineering – Tanta University (2024)**  
+- 🧠 Solid background in **Statistics, Machine Learning, Deep Learning, Data Analysis and data science**  
 - 🚀 Experienced in delivering **end-to-end data science solutions** (EDA → Feature Engineering → Modeling → Evaluation)  
 - 🔍 Skilled in **Predictive Modeling, NLP, Time Series Analysis, and Unsupervised Learning**  
 - 📈 Focused on transforming complex datasets into **actionable, business-driven insights**
@@ -46,16 +46,16 @@ I design, build, and optimize data-driven machine learning solutions with a stro
 
 ## 🎓 Education
 
-**Bachelor of Computer Science Engineering**  
+**Bachelor of Computer Engineering**  
 *Tanta University – Tanta, Egypt*  
-**Oct 2020 – Jul 2024**
 
 **Relevant Coursework**
 - Machine Learning (Fundamentals)  
 - Data Analysis & Statistics  
 - SQL & Database Systems  
 - Object-Oriented Programming (OOP)  
-- Data Structures & Algorithms  
+- Data Structures & Algorithms
+- Data science
 
 ---
 
@@ -138,6 +138,7 @@ I design, build, and optimize data-driven machine learning solutions with a stro
 - **Professional Data Analyst Certification – DataCamp**  
 - **Professional Data Scientist Certification – DataCamp**  
 - Machine Learning & Deep Learning Specializations (DataCamp & Coursera)
+- and more u can find it on my linkedin account 
 
 ---
 
