@@ -7,7 +7,7 @@ Data Scientist | Machine Learning Engineer | Applied AI Specialist
 </h3>
 
 <p align="center">
-📍 Mansoura, Dakahlia, Egypt 🇪🇬 <br/>
+📍 cairo , Egypt 🇪🇬 <br/>
 I design, build, and optimize data-driven machine learning solutions with a strong focus on
 <strong>robustness, scalability, and interpretability</strong>.
 </p>
