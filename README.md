@@ -47,5 +47,107 @@
 </p>
 
 ---
++---------------------------------------------------------------------------------------------------+
+| Role & Organization             | Core Responsibilities & Impact                                  |
++---------------------------------+-----------------------------------------------------------------+
+| AI & Data Science Instructor    | Delivering hands-on training in ML, Deep Learning & GenAI;      |
+| @ DEPI & AMIT Learning          | mentoring engineers on real-world industrial deployment.        |
++---------------------------------+-----------------------------------------------------------------+
+| Freelance Data Scientist        | Architecting end-to-end ML & predictive solutions using Python, |
+| @ Remote                        | TensorFlow, and Scikit-Learn for diverse enterprise clients.    |
++---------------------------------+-----------------------------------------------------------------+
+| Data Science Intern             | Built Telco Churn prediction models (Recall ~0.78, ROC-AUC ~0.84|
+| @ SaiKet Systems                | estimating 10-15% churn reduction through data-driven insight.  |
++---------------------------------+-----------------------------------------------------------------+
+| Data Analyst                    | Cleaned complex business datasets, automated KPI reporting, and |
+| @ Azzrk                         | optimized operational workflow efficiency.                      |
++---------------------------------+-----------------------------------------------------------------+
+
+
+---
+
+## 🛠️ Technical Stack & Capabilities
+
+### 🔹 Generative AI & LLM Architectures
+<p>
+  <img src="https://img.shields.io/badge/LangChain-121011?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Agentic_RAG-00f0cd?style=flat-square&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LLM_Fine--Tuning_(LoRA/QLoRA)-3776AB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-0078D4?style=flat-square"/>
+</p>
+
+### 🔹 Core Data Science, ML & Deep Learning
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+### 🔹 MLOps, Analytics & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_ML-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square"/>
+</p>
+
+---
+
+## 🚀 Featured Real-World Projects & Repositories
+
+### 🤖 Generative AI & Autonomous Systems
+* **`RAG-APP`**: Enterprise-grade Retrieval-Augmented Generation application for intelligent domain document querying.
+* **`Emotion-Detection-App`**: End-to-end NLP & computer vision application for real-time emotional state recognition.
+
+### 🏥 Healthcare & Biomedical Intelligence
+* **`cardiac-treatment-cost-prediction`**: Healthcare financial strategy model transitioning hospital billing to fixed package pricing.
+* **`Heart-Disease-Prediction-Full-Pipeline`**: Production-ready medical ML pipeline with class-imbalance handling & explainability.
+* **`Breast-cancer-prediction`**: Diagnostic classification pipeline utilizing deep feature extraction.
+
+### 📈 Business, Finance & Churn Analytics
+* **`telco-customer-churn-prediction`**: End-to-end churn prediction pipeline built during SaiKet Systems internship (*Recall ~0.78, ROC-AUC ~0.84*).
+* **`Credit-Card-Fraud-Detection`**: Fraud classification pipeline handling extreme class imbalance in financial transactions.
+* **`Walmart-Sales-Forecaster`**: Time-series sales forecasting model incorporating holiday promotional insights.
+* **`adults-census-income-prediction`**: Socioeconomic income classification (>50K) utilizing SVM, Logistic Regression, and Random Forest.
+
+### 🧠 Deep Learning & Vision
+* **`Handwritten-Digit-Recognition-CNN`**: Complete Deep Learning classification engine using TensorFlow, Keras, and CNNs on MNIST.
+* **`ibm_rain-prediction` & `Rain-in-Australia-prediction`**: Environmental predictive modeling using Deep Neural Networks and PyTorch.
+
+---
+
+## 📜 Key Certifications
+
+* 🏆 **IBM Generative AI Engineering** Professional Certificate
+* 🏆 **Certified Data Scientist** – micro1
+* 🏆 **Professional Data Scientist & Data Analyst** – DataCamp
+* 🏆 **Deep Learning Specialist** – DeepLearning.AI
+* 🏆 **Machine Learning Specialist** – Coursera
+* 🏆 **Associate AI Engineer for Data Scientists** – DataCamp
+
+---
+
+## 📫 Let's Connect!
+
+- 📧 **Email:** moehab1532002@gmail.com
+- 📱 **Phone:** +20 109 014 6607
+- 💼 **LinkedIn:** [Mohamed Ehab](https://www.linkedin.com/in/mohamed-ehab-7b91092b3)
+- 📊 **Kaggle:** [mohamedehaab](https://www.kaggle.com/mohamedehaab)
+- 🧠 **DataCamp Portfolio:** [DataCamp Profile](https://www.datacamp.com/portfolio/moehab1532002)
+
+---
+<p align="center">
+  <i>Building Production-Grade AI Systems & Driving Business Value Through Enterprise Intelligence.</i>
+</p>
 
 ## 💼 Professional Experience Highlights
