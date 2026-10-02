@@ -3,159 +3,114 @@
 </h1>
 
 <h3 align="center">
-Data Scientist | Machine Learning Engineer | Applied AI Specialist
+  Generative AI & Data Science Engineer | ML Specialist | AI Instructor @ DEPI & AMIT Learning
 </h3>
 
 <p align="center">
-📍 cairo , Egypt 🇪🇬 <br/>
-I design, build, and optimize data-driven machine learning solutions with a strong focus on
-<strong>robustness, scalability, and interpretability</strong>.
+  📍 Cairo, Egypt 🇪🇬 <br/>
+  Architecting production-grade <strong>Generative AI, Agentic RAG, and Data Science solutions</strong> with a focus on enterprise scalability and high-impact intelligence.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=mohamed-ehab&style=flat-square&color=blue"/>
+  <a href="https://www.linkedin.com/in/mohamed-ehab-7b91092b3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/mohamedehaab"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <a href="mailto:moehab1532002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamed-ehab&style=flat-square&color=00f0cd"/>
 </p>
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 About Me & Professional Summary
 
-- 📊 **Data Scientist & Machine Learning Engineer** with strong academic and hands-on project experience  
-- 🎓 Bachelor’s degree in **Computer  Engineering – Tanta University (2024)**  
-- 🧠 Solid background in **Statistics, Machine Learning, Deep Learning, Data Analysis and data science**  
-- 🚀 Experienced in delivering **end-to-end data science solutions** (EDA → Feature Engineering → Modeling → Evaluation)  
-- 🔍 Skilled in **Predictive Modeling, NLP, Time Series Analysis, and Unsupervised Learning**  
-- 📈 Focused on transforming complex datasets into **actionable, business-driven insights**
+- 🚀 **Generative AI & Data Science Engineer** specializing in bridging deep statistical analytics with cutting-edge **LLMs, Agentic Systems, and Fine-Tuning**.
+- 🎓 **B.Sc. in Computer Engineering** – Tanta University (2024).
+- 🎙️ **AI & Data Science Instructor** at **DEPI (Digital Egypt Pioneers Initiative)** & **AMIT Learning**, mentoring top-tier engineers in ML, Deep Learning, and GenAI.
+- 🏗️ Focused on **End-to-End Enterprise Architecture**: Transforming complex raw datasets into scalable, production-grade AI intelligence (RAG, Autonomous Agents, Fine-Tuning).
+- 🛠️ Expert in **Predictive Analytics, Feature Engineering, MLOps, NLP, and Time Series Forecasting**.
 
 ---
 
 ## 📊 GitHub Analytics Dashboard
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mohamed-ehab&show_icons=true&theme=react&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-ehab&theme=react&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-ehab&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-ehab&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-ehab&layout=compact&theme=react&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-ehab&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-📌 *This dashboard highlights coding consistency, strong Python usage, and continuous learning.*
-
 ---
 
-## 🎓 Education
+## 🛠️ Technical Ecosystem & Stack
 
-**Bachelor of Computer Engineering**  
-*Tanta University – Tanta, Egypt*  
-
-**Relevant Coursework**
-- Machine Learning (Fundamentals)  
-- Data Analysis & Statistics  
-- SQL & Database Systems  
-- Object-Oriented Programming (OOP)  
-- Data Structures & Algorithms
-- Data science
-
----
-
-## 🛠️ Technical Skills
-
-### 🔹 Programming Languages
+### 🔹 Generative AI & LLM Architectures
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-121011?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Agentic_RAG-00f0cd?style=flat-square&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Fine--Tuning_(LoRA/QLoRA)-3776AB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Vector_Databases_(FAISS/Chroma)-000000?style=flat-square"/>
 </p>
 
-### 🔹 Data Science & Machine Learning
+### 🔹 Core Data Science & Machine Learning
 <p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras"/>
-<img src="https://img.shields.io/badge/Statsmodels-3A3A3A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
-### 🔹 NLP & AI
+### 🔹 MLOps, Cloud & Infrastructure
 <p>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface"/>
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square"/>
-</p>
-
-### 🔹 Visualization & Analytics
-<p>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter"/>
-</p>
-
-### 🔹 Tools & MLOps
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Azure%20ML-0078D4?style=flat-square&logo=microsoftazure"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20ML-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Key Projects & Solutions
 
-- **Iris Species Classification (Kaggle)**  
-  Supervised ML pipeline with preprocessing, hyperparameter tuning, ensemble learning, and explainability  
-  *Accuracy: ~98%*
+### 🧠 Enterprise Generative AI & Autonomous Agents
+- **Autonomous Multi-Agent RAG System:** Built scalable retrieval-augmented generation pipelines using LangChain, vector stores, and custom agentic routing for enterprise knowledge retrieval.
+- **LLM Fine-Tuning & Quantization Pipeline:** Implemented parameter-efficient fine-tuning (PEFT/LoRA) on open-source LLMs with low-bit quantization for domain-specific deployment.
 
-- **Black Friday Sales Prediction (Kaggle)**  
-  Predictive modeling with feature engineering and performance optimization  
-
-- **Census Income Classification (Kaggle)**  
-  Classification models with model evaluation and interpretation  
-
-- **Time Series Forecasting – Temperature Prediction (DataCamp)**  
-  Regression & time series analysis for forecasting trends  
-
-- **Unsupervised Learning Projects**  
-  K-Means clustering (Height & Weight, Penguin Species)
+### 📊 Applied Data Science & Predictive Analytics
+- **Supervised Classification & Explainable AI (Iris Pipeline):** Production-ready ML framework incorporating advanced feature scaling, ensemble models, and SHAP-based interpretability (*Accuracy: 98%*).
+- **Retail Demand & Revenue Forecasting (Black Friday Analytics):** End-to-end predictive modeling leveraging hyperparameter optimization and feature extraction.
+- **Census Socioeconomic Intelligence Engine:** Advanced statistical modeling and income classification using ensemble techniques.
+- **Environmental Time-Series Forecasting:** Deep time-series regression models for multi-step trend prediction.
 
 ---
 
-## 🧠 Core Strengths
+## 📜 Certifications & Achievements
 
-- End-to-end Data Science & Machine Learning workflows  
-- Feature engineering & dimensionality reduction (PCA)  
-- Hyperparameter tuning & ensemble methods  
-- NLP & text analytics  
-- Strong statistical reasoning & problem-solving skills  
-
----
-
-## 📜 Certifications
-
-- **Professional Data Analyst Certification – DataCamp**  
-- **Professional Data Scientist Certification – DataCamp**  
-- Machine Learning & Deep Learning Specializations (DataCamp & Coursera)
-- and more u can find it on my linkedin account 
+- **Professional Data Scientist Certification** – DataCamp
+- **Professional Data Analyst Certification** – DataCamp
+- **Machine Learning & Deep Learning Specializations** – Coursera & DataCamp
+- **Featured Instructor** – Digital Egypt Pioneers Initiative (DEPI) & AMIT Learning
 
 ---
 
-## 🌍 Languages
-- Arabic: Native  
-- English: Advanced / Fluent  
+## 📫 Connect with Me
+
+- 📧 **Email:** moehab1532002@gmail.com
+- 📱 **Phone:** +20 109 014 6607
+- 💼 **LinkedIn:** [Mohamed Ehab](https://www.linkedin.com/in/mohamed-ehab-7b91092b3)
+- 📊 **Kaggle:** [mohamedehaab](https://www.kaggle.com/mohamedehaab)
+- 🧠 **DataCamp Portfolio:** [My Portfolio](https://www.datacamp.com/portfolio/moehab1532002)
 
 ---
-
-## 📫 Contact & Profiles
-
-- 📧 **Email:** moehab1532002@gmail.com  
-- 📱 **Phone:** +20 109 014 6607  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/mohamed-ehab-7b91092b3  
-- 📊 **Kaggle:** https://www.kaggle.com/mohamedehaab  
-- 🧠 **DataCamp Portfolio:** https://www.datacamp.com/portfolio/moehab1532002  
-
----
-
-⭐ *This GitHub profile reflects my professional journey, technical expertise, and commitment to building impactful data-driven solutions.*
+<p align="center">
+  <i>Building Production-Grade AI Systems & Architecting High-Impact Enterprise Intelligence.</i>
+</p>
