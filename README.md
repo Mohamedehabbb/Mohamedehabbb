@@ -7,8 +7,8 @@
 </h3>
 
 <p align="center">
-  📍 Cairo, Egypt 🇪🇬 <br/>
-  Architecting production-grade <strong>Generative AI, Agentic Systems, and End-to-End Data Science Solutions</strong> with a focus on enterprise scalability and measurable business impact.
+  📍 <b>Cairo, Egypt 🇪🇬</b> <br/>
+  Architecting production-grade <strong>Generative AI, Agentic Systems, and End-to-End Data Science Solutions</strong> with a core focus on enterprise scalability, MLOps, and measurable business impact.
 </p>
 
 <p align="center">
@@ -24,18 +24,18 @@
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 Executive Professional Summary
 
-- 🚀 **Generative AI & Data Science Engineer** specializing in bridging advanced predictive analytics with next-gen **LLMs, Agentic RAG, and Fine-Tuning**.
+- 🚀 **Generative AI & Data Science Engineer** specializing in bridging advanced predictive analytics with next-gen **LLMs, Agentic RAG Systems, Model Fine-Tuning (LoRA/QLoRA), and Multi-Agent Workflows**.
 - 🎓 **B.Sc. in Computer Engineering** – Tanta University (2024).
-- 🎙️ **AI & Data Science Instructor** at **DEPI (Digital Egypt Pioneers Initiative)** & **AMIT Learning**, empowering and mentoring top-tier engineers in ML, DL, and GenAI architectures.
+- 🎙️ **AI & Data Science Instructor** at **DEPI (Digital Egypt Pioneers Initiative)** & **AMIT Learning**, empowering and mentoring top-tier engineers in ML, Deep Learning, and GenAI architectures.
 - 💡 **Freelance Data Scientist** delivering custom end-to-end Machine Learning pipelines, model deployment, and predictive analytics for international clients.
-- 🏢 **Industry Experience:** Former Data Science Intern at **SaiKet Systems** (Churn optimization & ML pipelines) and Data Analyst at **Azzrk** (KPI tracking & operational reporting).
-- 📜 **Globally Certified Professional:** Holds prestigious titles including **IBM Generative AI Engineer**, **Certified Data Scientist (micro1)**, **DataCamp Professional Data Scientist**, and **DeepLearning.AI Deep Learning Specialist**.
+- 🏢 **Proven Track Record:** Former Data Science Intern at **SaiKet Systems** (Churn optimization & ML pipelines) and Data Analyst at **Azzrk** (KPI tracking & operational reporting).
+- 📜 **Globally Certified:** Holds elite credentials including **IBM Generative AI Engineer**, **Certified Data Scientist (micro1)**, **DataCamp Professional Data Scientist**, and **DeepLearning.AI Deep Learning Specialist**.
 
 ---
 
-## 📊 GitHub Analytics Dashboard
+## 📊 GitHub Analytics & Coding Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamed-ehab&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -47,38 +47,31 @@
 </p>
 
 ---
-+---------------------------------------------------------------------------------------------------+
-| Role & Organization             | Core Responsibilities & Impact                                  |
-+---------------------------------+-----------------------------------------------------------------+
-| AI & Data Science Instructor    | Delivering hands-on training in ML, Deep Learning & GenAI;      |
-| @ DEPI & AMIT Learning          | mentoring engineers on real-world industrial deployment.        |
-+---------------------------------+-----------------------------------------------------------------+
-| Freelance Data Scientist        | Architecting end-to-end ML & predictive solutions using Python, |
-| @ Remote                        | TensorFlow, and Scikit-Learn for diverse enterprise clients.    |
-+---------------------------------+-----------------------------------------------------------------+
-| Data Science Intern             | Built Telco Churn prediction models (Recall ~0.78, ROC-AUC ~0.84|
-| @ SaiKet Systems                | estimating 10-15% churn reduction through data-driven insight.  |
-+---------------------------------+-----------------------------------------------------------------+
-| Data Analyst                    | Cleaned complex business datasets, automated KPI reporting, and |
-| @ Azzrk                         | optimized operational workflow efficiency.                      |
-+---------------------------------+-----------------------------------------------------------------+
 
+## 💼 Industry Experience Overview
+
+| Role & Organization | Expertise & Key Achievements |
+| :--- | :--- |
+| **AI & Data Science Instructor**<br/>`DEPI & AMIT Learning` | Deliver practical training in ML, Deep Learning & GenAI. Mentor engineers on converting complex mathematical models into production-ready pipelines. |
+| **Freelance Data Scientist**<br/>`Remote` | Architect end-to-end ML & predictive solutions using Python, TensorFlow, and Scikit-Learn to drive data-backed strategy for corporate clients. |
+| **Data Science Intern**<br/>`SaiKet Systems` | Engineered Telco Churn prediction models (*Recall ~0.78, ROC-AUC ~0.84*), translating model outputs into actionable insights estimating 10–15% churn reduction. |
+| **Data Analyst**<br/>`Azzrk - أزرق` | Cleaned and validated complex enterprise datasets, built automated KPI reports, and optimized operational workflows. |
 
 ---
 
-## 🛠️ Technical Stack & Capabilities
+## 🛠️ Technical Stack & Frameworks
 
-### 🔹 Generative AI & LLM Architectures
+### 🔹 Generative AI & Autonomous LLMs
 <p>
   <img src="https://img.shields.io/badge/LangChain-121011?style=flat-square&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square"/>
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/Agentic_RAG-00f0cd?style=flat-square&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LLM_Fine--Tuning_(LoRA/QLoRA)-3776AB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-0078D4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Fine--Tuning_(LoRA/QLoRA)-3776AB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Vector_DBs_(FAISS/Chroma)-000000?style=flat-square"/>
 </p>
 
-### 🔹 Core Data Science, ML & Deep Learning
+### 🔹 Core ML, Deep Learning & Statistics
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
@@ -103,30 +96,30 @@
 
 ---
 
-## 🚀 Featured Real-World Projects & Repositories
+## 🚀 Key Featured Projects
 
-### 🤖 Generative AI & Autonomous Systems
-* **`RAG-APP`**: Enterprise-grade Retrieval-Augmented Generation application for intelligent domain document querying.
-* **`Emotion-Detection-App`**: End-to-end NLP & computer vision application for real-time emotional state recognition.
+### 🤖 Generative AI & Autonomous Applications
+* **`RAG-APP`**: Production-grade Retrieval-Augmented Generation system for querying complex enterprise datasets.
+* **`Emotion-Detection-App`**: Real-time emotion detection engine leveraging deep NLP and computer vision classification pipelines.
 
-### 🏥 Healthcare & Biomedical Intelligence
-* **`cardiac-treatment-cost-prediction`**: Healthcare financial strategy model transitioning hospital billing to fixed package pricing.
-* **`Heart-Disease-Prediction-Full-Pipeline`**: Production-ready medical ML pipeline with class-imbalance handling & explainability.
-* **`Breast-cancer-prediction`**: Diagnostic classification pipeline utilizing deep feature extraction.
+### 🏥 Healthcare & Medical Analytics
+* **`cardiac-treatment-cost-prediction`**: Strategic financial modeling for specialty hospitals transitioning to Fixed Package Pricing.
+* **`Heart-Disease-Prediction-Full-Pipeline`**: End-to-end medical ML pipeline handling class imbalance with interpretable ML models.
+* **`Breast-cancer-prediction`**: Diagnostic classification framework utilizing deep feature extraction.
 
-### 📈 Business, Finance & Churn Analytics
-* **`telco-customer-churn-prediction`**: End-to-end churn prediction pipeline built during SaiKet Systems internship (*Recall ~0.78, ROC-AUC ~0.84*).
-* **`Credit-Card-Fraud-Detection`**: Fraud classification pipeline handling extreme class imbalance in financial transactions.
-* **`Walmart-Sales-Forecaster`**: Time-series sales forecasting model incorporating holiday promotional insights.
-* **`adults-census-income-prediction`**: Socioeconomic income classification (>50K) utilizing SVM, Logistic Regression, and Random Forest.
+### 📈 Business Intelligence & Churn Forecasting
+* **`telco-customer-churn-prediction`**: End-to-end churn prediction framework developed during SaiKet internship (*Recall ~0.78, ROC-AUC ~0.84*).
+* **`Credit-Card-Fraud-Detection`**: High-precision anomaly detection pipeline handling extreme imbalance in financial data.
+* **`Walmart-Sales-Forecaster`**: Time-series demand forecasting model incorporating holiday promotional dynamics.
+* **`adults-census-income-prediction`**: Socioeconomic income classification (>50K) comparing SVM, Logistic Regression, and Ensemble methods.
 
-### 🧠 Deep Learning & Vision
-* **`Handwritten-Digit-Recognition-CNN`**: Complete Deep Learning classification engine using TensorFlow, Keras, and CNNs on MNIST.
-* **`ibm_rain-prediction` & `Rain-in-Australia-prediction`**: Environmental predictive modeling using Deep Neural Networks and PyTorch.
+### 🧠 Deep Learning & Time-Series
+* **`Handwritten-Digit-Recognition-CNN`**: Complete DL classification engine using TensorFlow, Keras, and CNNs on MNIST.
+* **`ibm_rain-prediction` & `Rain-in-Australia-prediction`**: Advanced time-series neural networks for environmental weather forecasting.
 
 ---
 
-## 📜 Key Certifications
+## 📜 Key Certifications & Specializations
 
 * 🏆 **IBM Generative AI Engineering** Professional Certificate
 * 🏆 **Certified Data Scientist** – micro1
@@ -137,17 +130,15 @@
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Contact & Professional Networks
 
 - 📧 **Email:** moehab1532002@gmail.com
 - 📱 **Phone:** +20 109 014 6607
 - 💼 **LinkedIn:** [Mohamed Ehab](https://www.linkedin.com/in/mohamed-ehab-7b91092b3)
 - 📊 **Kaggle:** [mohamedehaab](https://www.kaggle.com/mohamedehaab)
-- 🧠 **DataCamp Portfolio:** [DataCamp Profile](https://www.datacamp.com/portfolio/moehab1532002)
+- 🧠 **DataCamp Portfolio:** [My Portfolio](https://www.datacamp.com/portfolio/moehab1532002)
 
 ---
 <p align="center">
-  <i>Building Production-Grade AI Systems & Driving Business Value Through Enterprise Intelligence.</i>
+  <i>Architecting Production-Grade AI Systems & Driving Business Value Through Intelligent Automation.</i>
 </p>
-
-## 💼 Professional Experience Highlights
